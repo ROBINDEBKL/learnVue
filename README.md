@@ -7,3 +7,6 @@ Vue is a progressive framework for building user interfaces. It specializes in p
 ## Installation
 For the compatibility, it supports all ECMAScript 5 compliant browsers.
 ...
+
+## RANDOM NOTE
+This line is for the purpose of testing.
